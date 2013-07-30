@@ -1,3 +1,10 @@
+-- no specific sql database selected, yet. Will very likely be MySQL or Postgres
+-- pro Postgres:
+--   has writeable VIEWs
+--   has 'boolean' type
+-- pro MySQL:
+--   easier replication/setup/tuning
+
 CREATE TABLE accounting (
     accounting_id bigint,
     customer_id int,
