@@ -5,6 +5,7 @@
     <title>LiHAS Accounting</title>
     <script src="lib/jquery-handsontable/lib/jquery.min.js"></script>
     <script src="lib/jquery-handsontable/dist/jquery.handsontable.full.js"></script>
+      <link rel="stylesheet" href="../css/bootstrap.min.css" media="screen">
     <script>
 var accountingtable = {$accountingtable};
 {literal}
